@@ -24,7 +24,7 @@ Go to Business Application Studio and follow the given steps -
 
     ![Picture](./images/5.png)
 
-- Give your desired name to the app. We have named it 'Literature'. Press 'Finish'.
+- Give your desired name to the app in below format. 'Literature_USER_ID'. Check with instructor for YOUR 'USER_ID'.  Press 'Finish'.
 
     ![Picture](./images/6.png)
 
