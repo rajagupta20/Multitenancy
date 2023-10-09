@@ -18,6 +18,16 @@ Add your Username and Password for Cloud Foundry. Make sure to keep the 'Client 
 
 ### Subscribe to Application
 
+<RAJA -> In multitenancy, there is a concept of provider accounts and subscriber account. 
+provider account --> where app is deployed
+subscriber account --> from where we subscribe the app
+
+So far, we have deployed and configure the app in a subacount, let scall that provider subaccount.
+Now, you need another subaccount in the same GA. Let's call it subscriber account.>
+
+
+There are 2 BTP subaccounts involved here. 
+
 Now go back to the main page of your Subaccount in BTP and click on 'Service Marketplace'.
 
 ![Picture](./images/7.png)
