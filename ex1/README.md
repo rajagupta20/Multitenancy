@@ -6,7 +6,7 @@ Go to Business Application Studio and follow the given steps -
  - Click on 'Create a Dev Space' to create a new dev space
 
     ![Picture](./images/1.png)
- - Give a relevant name for your desired Dev Space, select the 'Full Stack Application Using Productivity Tools' option and click on 'Create Dev Space'.
+ - Give a relevant name for your desired Dev Space, select the _'Full Stack Application Using Productivity Tools'_ option and click on 'Create Dev Space'.
 
     ![Picture](./images/2.png)
 
